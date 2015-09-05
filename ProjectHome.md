@@ -1,0 +1,2 @@
+WAN-Bridge is an open-source WAN-Emulation alternative that doesn't require complex routing when testing the behavior of applications and network protocols over WAN.
+It can run inside a virtual machine or on a standard PC. With WAN-Bridge it is easy to create fully virtualized or mixed test environments, and benefit from advanced network monitoring and charting capabilities.
